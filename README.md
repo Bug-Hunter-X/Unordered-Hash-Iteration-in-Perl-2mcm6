@@ -1,0 +1,1 @@
+This example demonstrates an uncommon Perl bug related to the unordered iteration of hashes.  The `keys` function does not guarantee any specific order.  The solution shows how to maintain order if needed.
